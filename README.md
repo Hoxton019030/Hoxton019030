@@ -4,11 +4,6 @@
   <a href="https://github.com/Hoxton019030">[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hoxton019030&theme=codeSTACKr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 </div>
-# Hi I am Hoxton 
-  名字的由來是因為大學英文課要取英文名字，我實在不想取Jack,Tom之類很容易重複的名稱，於是取了一個當時在玩的遊戲<Payday2>裡面的遊戲角色的名字
-  本科會計，在事務所經歷了118天的加班生活後決定調頭離開，轉職當後端工程師
-
-  [我的日志](https://hoxton019030.github.io/)
 ### 會ㄉ技能
 
 + Java
