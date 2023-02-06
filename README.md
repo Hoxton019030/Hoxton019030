@@ -7,10 +7,6 @@
 
  # 會ㄉ技能
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,azure,idea,js,linux,md,maven,postman,powershell,vscode,bash,github,gitlab)](https://skillicons.dev)
-+ Java
-+ SQL
-+ Spring Boot
-+ Git
 
  # 我ㄉBlog
  https://hoxtonhsu.com
