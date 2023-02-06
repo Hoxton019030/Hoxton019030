@@ -6,7 +6,7 @@
 </div>
 
  # 會ㄉ技能
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,azure)](https://skillicons.dev)
 + Java
 + SQL
 + Spring Boot
