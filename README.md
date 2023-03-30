@@ -5,7 +5,7 @@
 <div align="center">
 
 
-  <a href="https://github.com/Hoxton019030">![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hoxton019030&theme=city_lights&show_icons=true&count_private=true)</a> 
+  <a href="https://github.com/Hoxton019030">![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hoxton019030&&show_icons=true&count_private=true)</a> 
   <a href="https://github.com/Hoxton019030">[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hoxton019030&theme=city_lights&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)</a> 
 
 
