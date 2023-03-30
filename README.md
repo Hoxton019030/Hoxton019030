@@ -1,3 +1,9 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hoxton019030/count.svg />
+</p>
 <div align="center">
 
   <a href="https://github.com/Hoxton019030">![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hoxton019030&theme=codeSTACKr&show_icons=true)</a>
