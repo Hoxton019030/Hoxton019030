@@ -4,7 +4,9 @@
 </p>
 <div align="center">
 
-    
+    | <a href="https://github.com/Hoxton019030/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoxton019030&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Hoxton019030/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoxton019030&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 
 | <a href="https://github.com/Hoxton019030/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoxton019030&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Hoxton019030/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoxton019030&layout=compact&theme=buefy&hide_border=true" /></a> |
