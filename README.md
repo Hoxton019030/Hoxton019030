@@ -4,17 +4,9 @@
 </p>
 <div align="center">
 
-
-|   <a href="https://github.com/Hoxton019030">![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hoxton019030&theme=codeSTACKr&show_icons=true&count_private=true&show_icons=true)</a> | <a href="https://github.com/Hoxton019030">[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hoxton019030&theme=codeSTACKr&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)</a> |
+  | ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hoxton019030&theme=codeSTACKr&show_icons=true&count_private=true&show_icons=true) | [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hoxton019030&theme=codeSTACKr&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
-
-<a href="https://github.com/Hoxton019030/Hoxton019030.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Hoxton019030.github.io&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/Hoxton019030/Zabbix-Sender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Zabbix-Sender&theme=codeSTACKr" />
-</a>
-
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Hoxton019030.github.io&theme=codeSTACKr) | ![Zabbix-Sender](https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Zabbix-Sender&theme=codeSTACKr) |
 
 </div>
 
