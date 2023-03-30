@@ -9,10 +9,10 @@
 | ------------- | ------------- |
 
 <a href="https://github.com/Hoxton019030/Hoxton019030.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Hoxton019030.github.io&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Hoxton019030.github.io&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/Hoxton019030/Zabbix-Sender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Zabbix-Sender&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Zabbix-Sender&theme=codeSTACKr" />
 </a>
 
 
