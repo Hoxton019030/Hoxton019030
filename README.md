@@ -1,5 +1,5 @@
 <p align="center"> 
-  Vistor Count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Hoxton019030/count.svg" />
 </p>
 <div align="center">
