@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hoxton019030/count.svg />
+  <img src="https://profile-counter.glitch.me/Hoxton019030/count.svg" />
 </p>
 <div align="center">
 
