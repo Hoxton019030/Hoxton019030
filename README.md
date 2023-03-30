@@ -11,7 +11,7 @@
 <a href="https://github.com/Hoxton019030/Hoxton019030.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Hoxton019030.github.io&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Hoxton019030/Zabbix-Sender">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoxton019030&repo=Zabbix-Sender&theme=dark" />
 </a>
 
