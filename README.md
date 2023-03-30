@@ -8,7 +8,7 @@
 |   <a href="https://github.com/Hoxton019030">![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hoxton019030&theme=codeSTACKr&show_icons=true&count_private=true&show_icons=true)</a> | <a href="https://github.com/Hoxton019030">[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hoxton019030&theme=codeSTACKr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a> |
 | ------------- | ------------- |
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoxton019030&hide_progress=true)](https://github.com/Hoxton019030/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoxton019030&hide_progress=trues&theme=dark)](https://github.com/Hoxton019030/github-readme-stats)
 #### Top Repositories
 
 
