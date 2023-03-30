@@ -1,7 +1,5 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Helle04o world">
-
 <p align="center"> 
-  Visitor count<br>
+  Vistor Count<br>
   <img src="https://profile-counter.glitch.me/Hoxton019030/count.svg" />
 </p>
 <div align="center">
